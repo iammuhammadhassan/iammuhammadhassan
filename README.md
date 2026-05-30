@@ -1,3 +1,5 @@
+![Professional Banner](github_banner.png)
+
 # Hi, I'm Muhammad Hassan 👋
 
 ### AI/ML Engineer | Data Scientist | Innovator
