@@ -33,10 +33,9 @@ I'm always expanding my knowledge and currently focusing on [mention a specific 
 
 I'm open to collaborations and discussions on AI/ML, data science, and innovative tech solutions. Feel free to reach out!
 
-*   **LinkedIn**: https://www.linkedin.com/in/iam-muhammad-hassan?utm_source=share_via&utm_content=profile&utm_medium=member_android
+*   **LinkedIn**: www.linkedin.com/in/iam-muhammad-hassan
 *   **Email**: iam.muhammad.hassan0@gmail.com
-*   **Portfolio/Website**: [Your Personal Website/Portfolio URL (if any)]
+
 
 ---
 
-_Generated with ❤️ by Manus AI_
