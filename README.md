@@ -1,26 +1,27 @@
- <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,50:101B3D,100:512DA8&text=MUHAMMAD%20HASSAN&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=ENGINEERING%20INTELLIGENCE%20%7C%20BUILDING%20THE%20FUTURE&descSize=13&descAlignY=58&animation=fadeIn&stroke=00E5FF&strokeWidth=1" width="100%" />
+<div align="center">
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+in+Progress;Turning+Data+Into+Intelligence;Building+Computer+Vision+Systems;Exploring+Deep+Learning+%26+Predictive+AI;From+Experiments+to+Real-World+Solutions" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,50:101B3D,100:512DA8&text=MUHAMMAD%20HASSAN&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=ENGINEERING%20INTELLIGENCE%20%7C%20BUILDING%20THE%20FUTURE&descSize=13&descAlignY=58&animation=fadeIn" width="100%" alt="Muhammad Hassan Banner"/>
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+in+Progress;Turning+Data+Into+Intelligence;Building+Computer+Vision+Systems;Exploring+Deep+Learning+%26+Predictive+AI;From+Experiments+to+Real-World+Solutions" alt="Typing animation"/>
+
+<br/><br/>
 
 <a href="https://github.com/iammuhammadhassan">
-<img src="https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/iam-muhammad-hassan">
-<img src="https://img.shields.io/badge/LINKEDIN-050816?style=for-the-badge&logo=linkedin&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/LINKEDIN-050816?style=for-the-badge&logo=linkedin&logoColor=00BFFF" alt="LinkedIn"/>
 </a>
 <a href="mailto:iam.muhammad.hassan0@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-050816?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/CONTACT-050816?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=iammuhammadhassan&label=PROFILE+VISITORS&color=00E5FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=iammuhammadhassan&label=PROFILE+VISITORS&color=00E5FF&style=for-the-badge" alt="Profile visitors"/>
 
 </div>
 
@@ -42,20 +43,20 @@ My focus is not just making models work. It's understanding the data, engineerin
 
 I enjoy working on problems where artificial intelligence can create measurable real-world value.
 
-<br/>
-
 <div align="center">
 
-| `CORE IDENTITY` | `CURRENT DIRECTION` |
+| CORE IDENTITY | CURRENT DIRECTION |
 |:---:|:---:|
 | AI / ML Engineering | Production-ready AI |
 | Computer Vision | Intelligent Automation |
 | Predictive Analytics | Generative AI & MLOps |
 | Data Science | Real-world AI applications |
 
-</div>
+<br/>
 
 > **Think intelligently. Engineer deliberately. Build relentlessly.**
+
+</div>
 
 ---
 
@@ -129,7 +130,7 @@ An AI-driven soil intelligence initiative exploring soil properties, fertility a
 <br/>
 
 <a href="https://github.com/iammuhammadhassan/SoilSenseAi">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=050816"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=050816" alt="Explore SoilSenseAI"/>
 </a>
 
 </td>
@@ -144,7 +145,7 @@ Exploring deep learning techniques to distinguish authentic human faces from AI-
 <br/>
 
 <a href="https://github.com/iammuhammadhassan/Deep-Fake-Analyzer">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore Deep Fake Analyzer"/>
 </a>
 
 </td>
@@ -161,7 +162,7 @@ Machine learning-based equipment failure prediction using industrial sensor data
 <br/>
 
 <a href="https://github.com/iammuhammadhassan/Predictive-Maintenance">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=050816"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=050816" alt="Explore Predictive Maintenance"/>
 </a>
 
 </td>
@@ -176,7 +177,7 @@ A Flutter-based car marketplace application integrating PostgreSQL, analytics, a
 <br/>
 
 <a href="https://github.com/iammuhammadhassan/CarAppWithDataBase">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore Car App"/>
 </a>
 
 </td>
@@ -192,7 +193,7 @@ A growing collection of practical machine learning implementations, algorithm ex
 
 <div align="center">
 <a href="https://github.com/iammuhammadhassan/Practicing-Machine-Learning">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=050816"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=050816" alt="Explore ML Practice"/>
 </a>
 </div>
 
@@ -214,27 +215,27 @@ A growing collection of practical machine learning implementations, algorithm ex
 
 **01 — Languages & Development**
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,dart,r,flutter&theme=dark" />
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,dart,r,flutter&theme=dark" alt="Programming languages and Flutter"/>
+</div>
 
 **02 — Artificial Intelligence & Data**
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" />
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" alt="AI and machine learning technologies"/>
+</div>
 
 **03 — Data Engineering & Storage**
 
-<p>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,postgres,mysql&theme=dark" />
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=numpy,pandas,postgres,mysql&theme=dark" alt="Data technologies"/>
+</div>
 
 **04 — Development Environment & Tools**
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" />
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" alt="Development tools"/>
+</div>
 
 ---
 
@@ -248,23 +249,19 @@ A growing collection of practical machine learning implementations, algorithm ex
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iammuhammadhassan&show_icons=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=iammuhammadhassan&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" width="49%" alt="GitHub Statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammuhammadhassan&layout=compact&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=C9D1D9&langs_count=8" />
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=iammuhammadhassan&hide_border=true&background=050816&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=808A9A&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammuhammadhassan&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" width="49%" alt="Most Used Languages"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iammuhammadhassan&bg_color=050816&color=00E5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20TIMELINE" />
+<img src="https://streak-stats.demolab.com?user=iammuhammadhassan&theme=tokyonight&hide_border=true" width="85%" alt="GitHub Contribution Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iammuhammadhassan&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph"/>
 
 </div>
-
----
-
-<div align="center">
 
 ---
 
@@ -276,37 +273,44 @@ A growing collection of practical machine learning implementations, algorithm ex
 
 *The next version is always under development.*
 
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>🧠</h3>
+<b>LEARN</b>
+<br/>
+<sub>Deepening AI knowledge</sub>
+</td>
+<td align="center" width="33%">
+<h3>⚡</h3>
+<b>BUILD</b>
+<br/>
+<sub>Engineering intelligent systems</sub>
+</td>
+<td align="center" width="33%">
+<h3>🚀</h3>
+<b>INNOVATE</b>
+<br/>
+<sub>Solving real-world problems</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-ALWAYS_BUILDING-00E5FF?style=for-the-badge&labelColor=050816" alt="Always building"/>
+
+<br/><br/>
+
+**LEARN → BUILD → EXPERIMENT → IMPROVE**
+
 </div>
 
-```python
-class MuhammadHassan:
-
-    def __init__(self):
-        self.identity = "Aspiring AI/ML Engineer"
-
-        self.focus = [
-            "Machine Learning",
-            "Deep Learning",
-            "Computer Vision",
-            "Generative AI",
-            "MLOps",
-            "Intelligent Systems"
-        ]
-
-        self.mindset = "Learn → Build → Experiment → Improve"
-
-    def next_milestone(self):
-        return "Turning intelligent experiments into real-world impact"
-
-
-me = MuhammadHassan()
-```
+---
 
 <div align="center">
-
-**STATUS: ALWAYS BUILDING. NEVER STANDING STILL.**
-
----
 
 ### `07 / CONNECTION ESTABLISHED`
 
@@ -319,15 +323,16 @@ I'm always interested in meaningful ideas, ambitious projects, and collaboration
 <br/>
 
 <a href="mailto:iam.muhammad.hassan0@gmail.com">
-<img src="https://img.shields.io/badge/LET'S_TALK-00E5FF?style=for-the-badge&logo=gmail&logoColor=050816"/>
+<img src="https://img.shields.io/badge/LET'S_TALK-00E5FF?style=for-the-badge&logo=gmail&logoColor=050816" alt="Let's talk"/>
 </a>
+
 <a href="https://www.linkedin.com/in/iam-muhammad-hassan">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:512DA8,50:101B3D,100:050816&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:512DA8,50:101B3D,100:050816&section=footer" width="100%" alt="Footer banner"/>
 
 <sub>NEURAL//CORE · ENGINEERED WITH CURIOSITY · POWERED BY CONTINUOUS LEARNING</sub>
 
