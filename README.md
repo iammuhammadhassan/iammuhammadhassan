@@ -266,9 +266,15 @@ A growing collection of practical machine learning implementations, algorithm ex
 
 <div align="center">
 
+---
+
+<div align="center">
+
 ### `06 / CURRENT MISSION`
 
 # What's Loading?
+
+*The next version is always under development.*
 
 </div>
 
@@ -296,9 +302,11 @@ class MuhammadHassan:
 me = MuhammadHassan()
 ```
 
-<br/>
-
 <div align="center">
+
+**STATUS: ALWAYS BUILDING. NEVER STANDING STILL.**
+
+---
 
 ### `07 / CONNECTION ESTABLISHED`
 
@@ -319,9 +327,11 @@ I'm always interested in meaningful ideas, ambitious projects, and collaboration
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:512DA8,50:101B3D,100:050816&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:512DA8,50:101B3D,100:050816&section=footer" width="100%"/>
 
 <sub>NEURAL//CORE · ENGINEERED WITH CURIOSITY · POWERED BY CONTINUOUS LEARNING</sub>
+
+<br/>
 
 <sub>© Muhammad Hassan</sub>
 
