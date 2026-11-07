@@ -1,4 +1,6 @@
-
+<div align="center">
+<img src="github_banner.png" width="100%" alt="Muhammad Hassan - AI/ML Engineer"/>
+</div>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,50:101B3D,100:512DA8&text=MUHAMMAD%20HASSAN&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=ENGINEERING%20INTELLIGENCE%20%7C%20BUILDING%20THE%20FUTURE&descSize=13&descAlignY=58&animation=fadeIn" width="100%" alt="Muhammad Hassan Banner"/>
