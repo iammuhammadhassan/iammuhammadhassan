@@ -1,155 +1,328 @@
-<!-- ░▒▓█ MUHAMMAD HASSAN · AI/ML ENGINEER █▓▒░ -->
+ <div align="center">
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=MUHAMMAD%20HASSAN&fontSize=70&fontColor=00F5FF&fontAlignY=38&desc=AI%20%2F%20ML%20ENGINEER%20%C2%B7%20DATA%20SCIENTIST%20%C2%B7%20BUILDER%20OF%20INTELLIGENT%20SYSTEMS&descSize=18&descColor=C084FC&descAlignY=60&animation=twinkling" alt="Muhammad Hassan header" />
-
-<a href="https://github.com/iammuhammadhassan">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3200&pause=900&color=00F5FF&center=true&vCenter=true&width=820&height=60&lines=Turning+messy+data+into+intelligent+products;Detecting+deepfakes+%7C+Forecasting+failures;Machine+Learning+%C2%B7+Computer+Vision+%C2%B7+Analytics;Curious+by+default.+Practical+by+design.+Always+building." alt="Typing animation" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,50:101B3D,100:512DA8&text=MUHAMMAD%20HASSAN&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=ENGINEERING%20INTELLIGENCE%20%7C%20BUILDING%20THE%20FUTURE&descSize=13&descAlignY=58&animation=fadeIn&stroke=00E5FF&strokeWidth=1" width="100%" />
 
 <br/>
 
-<a href="https://github.com/iammuhammadhassan"><img src="https://img.shields.io/badge/GITHUB-iammuhammadhassan-0d1117?style=for-the-badge&logo=github&logoColor=00F5FF&labelColor=0d1117&color=7C3AED" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/iam-muhammad-hassan"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF&labelColor=0d1117&color=0A66C2" alt="LinkedIn" /></a>
-<a href="mailto:iam.muhammad.hassan0@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY%20HELLO-0d1117?style=for-the-badge&logo=gmail&logoColor=00F5FF&labelColor=0d1117&color=EA4335" alt="Email" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+in+Progress;Turning+Data+Into+Intelligence;Building+Computer+Vision+Systems;Exploring+Deep+Learning+%26+Predictive+AI;From+Experiments+to+Real-World+Solutions" />
+
+<br/>
+
+<a href="https://github.com/iammuhammadhassan">
+<img src="https://img.shields.io/badge/GITHUB-050816?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+</a>
+<a href="https://www.linkedin.com/in/iam-muhammad-hassan">
+<img src="https://img.shields.io/badge/LINKEDIN-050816?style=for-the-badge&logo=linkedin&logoColor=00BFFF"/>
+</a>
+<a href="mailto:iam.muhammad.hassan0@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT-050816?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=iammuhammadhassan&label=VISITORS&style=for-the-badge&color=7C3AED&labelColor=0d1117" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/iammuhammadhassan?style=for-the-badge&logo=github&label=FOLLOWERS&color=00F5FF&labelColor=0d1117" alt="Followers" />
+<img src="https://komarev.com/ghpvc/?username=iammuhammadhassan&label=PROFILE+VISITORS&color=00E5FF&style=for-the-badge" />
 
 </div>
+
+---
+
+<div align="center">
+
+### `01 / IDENTITY`
+
+# Beyond the Code.
+
+**I build intelligent systems that turn complex data into meaningful decisions.**
+
+</div>
+
+I'm Muhammad Hassan, an AI/ML enthusiast and aspiring engineer exploring the intersection of machine learning, deep learning, computer vision, and intelligent software.
+
+My focus is not just making models work. It's understanding the data, engineering the solution, evaluating performance, and turning experiments into practical applications.
+
+I enjoy working on problems where artificial intelligence can create measurable real-world value.
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+<div align="center">
 
-## `> whoami`
+| `CORE IDENTITY` | `CURRENT DIRECTION` |
+|:---:|:---:|
+| AI / ML Engineering | Production-ready AI |
+| Computer Vision | Intelligent Automation |
+| Predictive Analytics | Generative AI & MLOps |
+| Data Science | Real-world AI applications |
+
+</div>
+
+> **Think intelligently. Engineer deliberately. Build relentlessly.**
+
+---
+
+<div align="center">
+
+### `02 / SPECIALIZATIONS`
+
+# Areas of Intelligence
+
+*The domains where I experiment, learn, and build.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Machine Learning
+
+Building predictive systems using supervised and unsupervised learning, feature engineering, model evaluation, and optimization.
+
+</td>
+<td width="50%" valign="top">
+
+### 👁️ Computer Vision
+
+Exploring visual intelligence through object detection, image analysis, deep learning, and media authenticity.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data Science
+
+Transforming raw datasets into insights through exploratory analysis, statistical techniques, and visualization.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Intelligent Applications
+
+Combining AI, databases, backend technologies, and modern interfaces to create useful software products.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### `03 / SELECTED WORK`
+
+# The Project Universe
+
+*Ideas transformed into experiments, systems, and applications.*
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🌱 SoilSenseAI</h3>
+
+**Punjab-Wide Soil Intelligence**
+
+An AI-driven soil intelligence initiative exploring soil properties, fertility assessment, soil classification, and crop suitability using geospatial and environmental data.
+
+<br/>
+
+<a href="https://github.com/iammuhammadhassan/SoilSenseAi">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=050816"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>👁️ Deep-Fake-Analyzer</h3>
+
+**Synthetic Media Detection**
+
+Exploring deep learning techniques to distinguish authentic human faces from AI-generated imagery.
+
+<br/>
+
+<a href="https://github.com/iammuhammadhassan/Deep-Fake-Analyzer">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>⚙️ Predictive Maintenance</h3>
+
+**Intelligent Failure Prediction**
+
+Machine learning-based equipment failure prediction using industrial sensor data and predictive analytics.
+
+<br/>
+
+<a href="https://github.com/iammuhammadhassan/Predictive-Maintenance">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=050816"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🚘 CarAppWithDataBase</h3>
+
+**Full-Stack Application Development**
+
+A Flutter-based car marketplace application integrating PostgreSQL, analytics, and a glassmorphic interface.
+
+<br/>
+
+<a href="https://github.com/iammuhammadhassan/CarAppWithDataBase">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+<h3>🧪 Practicing Machine Learning</h3>
+
+**The Experimental Laboratory**
+
+A growing collection of practical machine learning implementations, algorithm experiments, and hands-on learning.
+
+<div align="center">
+<a href="https://github.com/iammuhammadhassan/Practicing-Machine-Learning">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=050816"/>
+</a>
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### `04 / TECHNOLOGY MATRIX`
+
+# My Technical Arsenal
+
+*Tools and technologies I work with and continue to explore.*
+
+</div>
+
+**01 — Languages & Development**
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,dart,r,flutter&theme=dark" />
+</p>
+
+**02 — Artificial Intelligence & Data**
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn&theme=dark" />
+</p>
+
+**03 — Data Engineering & Storage**
+
+<p>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,postgres,mysql&theme=dark" />
+</p>
+
+**04 — Development Environment & Tools**
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" />
+</p>
+
+---
+
+<div align="center">
+
+### `05 / GITHUB INTELLIGENCE`
+
+# The Activity Dashboard
+
+*Every contribution is another experiment. Every repository is another step forward.*
+
+<br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iammuhammadhassan&show_icons=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammuhammadhassan&layout=compact&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=C9D1D9&langs_count=8" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=iammuhammadhassan&hide_border=true&background=050816&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=808A9A&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=iammuhammadhassan&bg_color=050816&color=00E5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20TIMELINE" />
+
+</div>
+
+---
+
+<div align="center">
+
+### `06 / CURRENT MISSION`
+
+# What's Loading?
+
+</div>
 
 ```python
 class MuhammadHassan:
-    role      = ["AI/ML Engineer", "Data Scientist", "Product Builder"]
-    focus     = ["Machine Learning", "Computer Vision", "Predictive Analytics"]
-    stack     = ["Python", "R", "TensorFlow", "PyTorch", "Flutter", "PostgreSQL"]
-    mindset   = "Curious by default. Practical by design. Always building."
-    now       = ["MLOps", "Generative AI", "Production-ready ML systems"]
-    open_to   = "Interesting problems, thoughtful collaborators, real impact"
 
-    def mission(self):
-        return "Turn messy data and ambitious ideas into useful, intelligent products."
+    def __init__(self):
+        self.identity = "Aspiring AI/ML Engineer"
+
+        self.focus = [
+            "Machine Learning",
+            "Deep Learning",
+            "Computer Vision",
+            "Generative AI",
+            "MLOps",
+            "Intelligent Systems"
+        ]
+
+        self.mindset = "Learn → Build → Experiment → Improve"
+
+    def next_milestone(self):
+        return "Turning intelligent experiments into real-world impact"
+
+
+me = MuhammadHassan()
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
-
-## ⚡ Core Capabilities
-
-<table>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>🧠 MACHINE LEARNING</h3>
-      Predictive systems built with supervised, unsupervised and deep learning.
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>👁️ COMPUTER VISION</h3>
-      Visual intelligence, media authenticity and deepfake detection.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>📊 DATA SCIENCE</h3>
-      Raw data into clear insight through feature engineering, analysis and visualization.
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>📱 PRODUCT BUILDING</h3>
-      Ideas shipped with Flutter, PostgreSQL, analytics and thoughtful interfaces.
-    </td>
-  </tr>
-</table>
-
-## 🚀 Featured Builds
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/iammuhammadhassan/Predictive-Maintenance"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iammuhammadhassan&repo=Predictive-Maintenance&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=C084FC" alt="Predictive Maintenance" /></a>
-      <br/><sub>ML-powered early equipment failure detection to reduce downtime.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/iammuhammadhassan/Deep-Fake-Analyzer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iammuhammadhassan&repo=Deep-Fake-Analyzer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=C084FC" alt="Deep-Fake-Analyzer" /></a>
-      <br/><sub>Deep learning experiments for detecting synthetic media.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/iammuhammadhassan/CarAppWithDataBase"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iammuhammadhassan&repo=CarAppWithDataBase&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=C084FC" alt="CarAppWithDataBase" /></a>
-      <br/><sub>Full-stack Flutter car marketplace with PostgreSQL, analytics and a glassmorphic UI.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/iammuhammadhassan/SoilSenseAi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iammuhammadhassan&repo=SoilSenseAi&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=C084FC" alt="SoilSenseAi" /></a>
-      <br/><sub>AI-driven exploration of smarter, data-informed soil insights.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/iammuhammadhassan/Practicing-Machine-Learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=iammuhammadhassan&repo=Practicing-Machine-Learning&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=C084FC" alt="Practicing-Machine-Learning" /></a>
-      <br/><sub>A growing laboratory of algorithms, experiments and practical ML concepts.</sub>
-    </td>
-  </tr>
-</table>
-
-## 🧰 Tech Arsenal
+<br/>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,pandas,numpy,opencv,flutter,dart,postgres,git,github,vscode&perline=7&theme=dark" alt="Tech stack" />
+### `07 / CONNECTION ESTABLISHED`
 
-</div>
+# Have an Interesting Problem?
 
-<div align="center">
+I'm always interested in meaningful ideas, ambitious projects, and collaborations involving artificial intelligence, data, and intelligent applications.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+**Let's turn interesting problems into intelligent solutions.**
 
-</div>
+<br/>
 
-## 📈 Live Dashboard
+<a href="mailto:iam.muhammad.hassan0@gmail.com">
+<img src="https://img.shields.io/badge/LET'S_TALK-00E5FF?style=for-the-badge&logo=gmail&logoColor=050816"/>
+</a>
+<a href="https://www.linkedin.com/in/iam-muhammad-hassan">
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<div align="center">
+<br/><br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=iammuhammadhassan&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0d1117&title_color=00F5FF&icon_color=C084FC&text_color=E2E8F0" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammuhammadhassan&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00F5FF&text_color=E2E8F0" alt="Top languages" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:512DA8,50:101B3D,100:050816&section=footer"/>
 
-<img src="https://streak-stats.demolab.com?user=iammuhammadhassan&theme=tokyonight&hide_border=true&background=0d1117&ring=C084FC&fire=00F5FF&currStreakLabel=00F5FF" alt="Streak stats" />
+<sub>NEURAL//CORE · ENGINEERED WITH CURIOSITY · POWERED BY CONTINUOUS LEARNING</sub>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iammuhammadhassan&bg_color=0d1117&color=00F5FF&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true" alt="Contribution graph" width="100%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=iammuhammadhassan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
-
-</div>
-
-## 🎯 Currently Leveling Up
-
-```text
-[██████████████░░░░░░] MLOps ......................... in progress
-[███████████████░░░░░] Generative AI ................. in progress
-[█████████████████░░░] Production-ready ML systems ... in progress
-```
-
-## 🤝 Let's Build Something Meaningful
-
-<div align="center">
-
-Have an idea involving **AI, data, computer vision, or intelligent apps?** I'd love to hear about it.
-
-<a href="mailto:iam.muhammad.hassan0@gmail.com"><img src="https://img.shields.io/badge/✉️%20iam.muhammad.hassan0@gmail.com-00F5FF?style=for-the-badge&labelColor=7C3AED" alt="Email me" /></a>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer&text=Designed%20with%20curiosity%20%C2%B7%20Built%20with%20code%20%C2%B7%20Powered%20by%20continuous%20learning&fontSize=15&fontColor=C084FC&fontAlignY=68" alt="Footer" />
+<sub>© Muhammad Hassan</sub>
 
 </div>
